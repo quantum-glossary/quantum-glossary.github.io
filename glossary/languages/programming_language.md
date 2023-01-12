@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Programming Language
-parent: Language Related 
-nav_order: 2
+parent: Language Related Terms
+nav_order: 1
 ---
 
 # Programming Language
