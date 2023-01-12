@@ -1,3 +1,4 @@
-theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
 title: The Quantum Computing Glossary
 description: Commonly used terms in quantum computing.
