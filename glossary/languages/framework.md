@@ -15,7 +15,7 @@ Classical
 
 ## Full Definition
 
-"Libraries are meant to be utilized by the application while frameworks provide important parts of the application architecture"[1](#src_1) 
+"Libraries are meant to be utilized by the application while frameworks provide important parts of the application architecture"<sup>[1](#src_1)</sup>
 
 ## Examples
 
