@@ -3,6 +3,7 @@ color_scheme: dark
 title: QC Glossary
 description: Commonly used terms in quantum computing.
 
+mardown: kramdown
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/

@@ -3,6 +3,7 @@ layout: default
 title: Physical Qudits
 parent: Hardware Related Terms
 nav_order: 4
+use_math: true
 ---
 
 # Physical Qudits
@@ -20,7 +21,7 @@ Quantum
 
 ## Examples
 
-- $\ket{0}$
+- \\(\ket{0}\\)
 
 ## Synonyms
 
