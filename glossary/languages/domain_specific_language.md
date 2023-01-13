@@ -2,7 +2,7 @@
 layout: default
 title: Domain Specific Language
 parent: Language Related Terms
-nav_order: 4
+nav_order: 1
 ---
 
 # Domain Specific Language
