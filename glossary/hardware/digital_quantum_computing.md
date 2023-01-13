@@ -23,7 +23,9 @@ Quantum
 
 -  -->
 
-<!-- ## Related Terms
+## Related Terms
+- [Qudits]
 
--->
 <!-- ## Sources -->
+
+[Qudits]: {{ site.baseurl }}{% link glossary/hardware-relade/physical_qudits.md %}
