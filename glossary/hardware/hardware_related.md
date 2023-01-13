@@ -3,7 +3,7 @@ layout: default
 title: Hardware Related Terms
 nav_order: 2
 has_children: true
-permalink: /glossary/hardware-releated
+permalink: /glossary/hardware-related
 ---
 
 # Hardware Related Terms

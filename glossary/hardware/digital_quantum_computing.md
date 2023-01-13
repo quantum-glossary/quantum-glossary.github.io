@@ -28,4 +28,4 @@ Quantum
 
 <!-- ## Sources -->
 
-[Qudits]: {{ site.baseurl }}{% link glossary/hardware-relade/physical_qudits.md %}
+[Qudits]: {{ site.baseurl }}{% link glossary/hardware-related/physical_qudits.md %}
