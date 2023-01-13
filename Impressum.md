@@ -5,6 +5,14 @@ nav_exclude: true
 description: "Data Protection regulations."
 permalink: /data_protection
 ---
+---
+layout: default
+title: Impressum
+nav_exclude: true
+description: "Impressum"
+permalink: /impressum
+---
+
 <h1>Impressum</h1>
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
