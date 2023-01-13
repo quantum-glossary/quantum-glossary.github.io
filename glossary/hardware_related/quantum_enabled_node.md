@@ -5,7 +5,7 @@ parent: Hardware Related Terms
 nav_order: 6
 ---
 
-# Framework
+# Quantum Enabled Node
 {: .fs-9 }
 Full stack for quantum-classical hybrid operations including classical hardware, quantum hardware and communication hardware. 
 {: .fs-6 .fw-300 }
