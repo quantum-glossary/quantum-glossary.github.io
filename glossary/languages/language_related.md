@@ -3,7 +3,7 @@ layout: default
 title: Language Related Terms
 nav_order: 3
 has_children: true
-permalink: /docs/language-releated
+permalink: /glossary/language-releated
 ---
 
 # Language Related Terms
