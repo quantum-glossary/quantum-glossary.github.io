@@ -7,7 +7,7 @@ nav_order: 1
 
 # Domain Specific Language
 {: .fs-9 }
-A Domain Specific Language (DSL) is tailored to a fixed domain. They serve a specialized purpose and are usually not complete. Instead they extend existing languages.
+A Domain Specific Language (DSL) is tailored to a fixed domain. They serve a specialized purpose and are usually not complete. Instead, they extend existing languages.
 {: .fs-6 .fw-300 }
 
 Classical

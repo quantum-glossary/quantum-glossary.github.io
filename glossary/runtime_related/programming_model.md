@@ -7,7 +7,7 @@ nav_order: 2
 
 # Programming Model
 {: .fs-9 }
-A model for writing programs to facilitate a specific execution model. This might be different than the intended execution model of the underlying language, and is usually implemented in or enforced by a framework.
+A model for writing programs to facilitate a specific execution model. This might be different from the intended execution model of the underlying language and is usually implemented in or enforced by a framework.
 {: .fs-6 .fw-300 }
 
 Classical

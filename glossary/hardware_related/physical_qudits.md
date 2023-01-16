@@ -17,7 +17,7 @@ Quantum
 {: .label .label-green}
 
 <!-- ## Full Definition -->
-<!-- Nielsen & Chhuang should go here. -->
+<!-- Nielsen & Chuang should go here. -->
 
 ## Examples
 
@@ -32,4 +32,4 @@ Quantum
 
 -->
 <!-- ## Sources -->
-<!-- Nielsen & Chhuang should go here. -->
+<!-- Nielsen & Chuang should go here. -->

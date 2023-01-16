@@ -8,5 +8,5 @@ permalink: /glossary/language-related
 
 # Language Related Terms
 
-All terms closely related to programming languages.
+All terms that are closely related to programming languages.
 {: .fs-6 .fw-300 }

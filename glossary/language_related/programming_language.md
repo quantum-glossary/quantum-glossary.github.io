@@ -7,7 +7,7 @@ nav_order: 4
 
 # Programming Language
 {: .fs-9 }
-A programming language is a set of tools to define a program. Programming languages are defined by formal semantic rules and have at least a proper grammar. 
+A programming language is a set of tools to define a program. Programming languages are defined by formal semantic rules and have at least a properly defined grammar. 
 {: .fs-6 .fw-300 }
 
 Classical

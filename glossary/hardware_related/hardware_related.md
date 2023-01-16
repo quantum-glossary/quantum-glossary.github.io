@@ -8,6 +8,6 @@ permalink: /glossary/hardware-related
 
 # Hardware Related Terms
 
-All terms closely related to quantum computing hardware.
+All terms that are closely related to quantum computing hardware.
 {: .fs-6 .fw-300 }
 

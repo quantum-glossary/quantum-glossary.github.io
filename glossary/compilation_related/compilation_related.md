@@ -8,6 +8,6 @@ permalink: /glossary/compilation
 
 # Compilation Related Terms
 
-All terms closely related to compilation.
+All terms that are closely related to compilation.
 {: .fs-6 .fw-300 }
 

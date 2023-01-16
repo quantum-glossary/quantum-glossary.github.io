@@ -19,14 +19,15 @@ tbd. -->
 
 ## Examples
 
-- The following codesnippet will measure the runtime of a python programm:
+- The following codes snippet will measure the runtime of a python program:
 ```
 $ python -m timeit programm.py
 ```
 
 ## Synonyms
 
-- Classical Execution Time 
+- Classical Execution Time
+- Running time
 
 <!-- ## Related Terms
 

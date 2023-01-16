@@ -8,5 +8,5 @@ permalink: /glossary/runtime-related
 
 # Runtime Related Terms
 
-All terms closely related to the runtime environment.
+All terms that are closely related to the runtime environment.
 {: .fs-6 .fw-300 }
