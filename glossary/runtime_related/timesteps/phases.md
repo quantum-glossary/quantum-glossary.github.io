@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Timesteps
+title: Phases
 nav_order: 5
 has_children: true
 parent: Runtime Related Terms
-permalink: /glossary/runtime-releated/timesteps
+permalink: /glossary/runtime-releated/phases
 ---
 
 # Runtime Related Terms

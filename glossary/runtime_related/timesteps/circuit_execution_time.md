@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Circuit Execution Time
-parent: Timesteps
+parent: Phases
 nav_order: 1
 ---
 

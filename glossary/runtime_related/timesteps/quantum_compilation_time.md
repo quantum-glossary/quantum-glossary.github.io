@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quantum Compilation Time
-parent: Timesteps
+parent: Phases
 nav_order: 4
 ---
 
