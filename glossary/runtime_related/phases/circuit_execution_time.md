@@ -29,4 +29,4 @@ tbd. -->
 <!--## Sources
 1.  -->
 
-[Runtime]: {{ site.baseurl }}{% link {{ page.dir }}/runtime.md %}
+[Runtime]: {{ site.baseurl }}{% link glossary/runtime_related/phases/runtime.md %}
