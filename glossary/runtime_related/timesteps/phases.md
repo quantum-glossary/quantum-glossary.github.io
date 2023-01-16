@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phases
-nav_order: 5
+nav_order: 2
 has_children: true
 parent: Runtime Related Terms
 permalink: /glossary/runtime-releated/phases
