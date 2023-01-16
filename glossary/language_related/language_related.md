@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Language Related Terms
-nav_order: 3
+nav_order: 4
 has_children: true
-permalink: /glossary/language-releated
+permalink: /glossary/language-related
 ---
 
 # Language Related Terms

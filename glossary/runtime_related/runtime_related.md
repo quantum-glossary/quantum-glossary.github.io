@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Runtime Related Terms
-nav_order: 3
+nav_order: 5
 has_children: true
-permalink: /glossary/runtime-releated
+permalink: /glossary/runtime-related
 ---
 
 # Runtime Related Terms
