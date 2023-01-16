@@ -2,6 +2,7 @@
 layout: default
 title: Quantum Compilation Time
 parent: Phases
+grand_parent: Runtime Related Terms
 nav_order: 4
 ---
 

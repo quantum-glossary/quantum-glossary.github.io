@@ -2,6 +2,7 @@
 layout: default
 title: Circuit Execution Time
 parent: Phases
+grand_parent: Runtime Related Terms
 nav_order: 1
 ---
 

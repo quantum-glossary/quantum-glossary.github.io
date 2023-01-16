@@ -2,6 +2,7 @@
 layout: default
 title: Classical Compilation Time
 parent: Phases
+grand_parent: Runtime Related Terms
 nav_order: 3
 ---
 
