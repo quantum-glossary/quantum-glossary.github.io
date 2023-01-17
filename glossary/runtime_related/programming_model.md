@@ -22,7 +22,7 @@ tbd. -->
 
 ## Examples
 
-- [MapReduce]<sup>[1](#src_1)</sup>), for parallel computing
+- MapReduce<sup>[1](#src_1)</sup>, for parallel computing
 
 <!-- ## Synonyms
 
