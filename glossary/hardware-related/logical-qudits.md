@@ -2,7 +2,7 @@
 layout: default
 title: Logical Qudits
 parent: Hardware Related Terms
-nav_order: 6
+nav_order: 7
 ---
 
 # Logical Qudits

@@ -4,7 +4,7 @@ title: Operations
 nav_order: 5
 has_children: true
 parent: Hardware Related Terms
-permalink: /glossary/nardware-related/operations
+permalink: /glossary/hardware-related/operations
 ---
 
 # Operations
