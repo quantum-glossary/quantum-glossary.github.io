@@ -37,4 +37,4 @@ In most cases, Runtime Environment is shortened to runtime.
 ## Sources
 1.  -->
 
-[Runtime]: {{ site.baseurl }}{% link glossary/runtime_related/phases/runtime.md %}
+[Runtime]: {{ site.baseurl }}{% link glossary/runtime-related/phases/runtime.md %}

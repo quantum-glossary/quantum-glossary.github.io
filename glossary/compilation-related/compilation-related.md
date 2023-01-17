@@ -3,7 +3,7 @@ layout: default
 title: Compilation Related Terms
 nav_order: 2
 has_children: true
-permalink: /glossary/compilation
+permalink: /glossary/compilation-related
 ---
 
 # Compilation Related Terms

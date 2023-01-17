@@ -40,4 +40,4 @@ Scheduling is usually handled by the runtime environment. \newline \emph{Related
 <!--## Sources
 1.  -->
 
-[Runtime Environment]: {{ site.baseurl }}{% link glossary/runtime_related/runtime_environment.md %}
+[Runtime Environment]: {{ site.baseurl }}{% link glossary/runtime-related/runtime-environment.md %}

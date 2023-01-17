@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_exclude: true
 description: "Data Protection regulations."
-permalink: /data_protection
+permalink: /data-protection
 ---
 ---
 layout: default

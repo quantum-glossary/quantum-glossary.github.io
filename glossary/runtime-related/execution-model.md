@@ -46,4 +46,4 @@ heterogeneous quantum-classical computing with nisq features. ACM Transactions
 on Quantum Computing, 2(4), dec 2021.<a href="src_1"></a>
 
 
-[Runtime Environment]: {{ site.baseurl }}{% link glossary/runtime_related/runtime_environment.md %}
+[Runtime Environment]: {{ site.baseurl }}{% link glossary/runtime-related/runtime-environment.md %}

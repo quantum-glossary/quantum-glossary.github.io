@@ -35,5 +35,5 @@ tbd. -->
 <!--## Sources
 1.  -->
 
-[Circuit Generation Time]: {{ site.baseurl }}{% link glossary/runtime_related/phases/circuit_generation_time.md %}
-[Classical Compilation Time]: {{ site.baseurl }}{% link glossary/runtime_related/phases/classical_compilation_time.md %}
+[Circuit Generation Time]: {{ site.baseurl }}{% link glossary/runtime-related/phases/circuit-generation-time.md %}
+[Classical Compilation Time]: {{ site.baseurl }}{% link glossary/runtime-related/phases/classical-compilation-time.md %}
