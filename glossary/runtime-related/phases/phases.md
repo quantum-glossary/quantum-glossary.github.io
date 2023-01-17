@@ -4,7 +4,7 @@ title: Phases
 nav_order: 2
 has_children: true
 parent: Runtime Related Terms
-permalink: /glossary/runtime-releated/phases
+permalink: /glossary/runtime-related/phases
 ---
 
 # Phases
