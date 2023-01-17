@@ -18,7 +18,7 @@ Classical
 
 In quantum computing, during transpilation the circuit representation is translated to another circuit representation under different constraints and can include circuit optimization.
 An example is the decomposition of all gates to the native gate set of a given hardware and gate cancellation.
-Transpilation is **wrongly** used synonymously to compilation.
+Transpilation is **wrongly** used synonymously with compilation.
 Instead, transpilation is a specific type of compilation.
 It is sometimes also used to refer to individual steps during compilation. 
 The use of the term **transpilation** is highly controversial.
