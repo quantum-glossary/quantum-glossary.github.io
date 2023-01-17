@@ -2,7 +2,7 @@
 layout: default
 title: Quantum Hardware
 parent: Hardware Related Terms
-nav_order: 8
+nav_order: 9
 ---
 
 # Quantum Hardware

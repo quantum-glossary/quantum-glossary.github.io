@@ -2,7 +2,7 @@
 layout: default
 title: Physical Qudits
 parent: Hardware Related Terms
-nav_order: 5
+nav_order: 6
 use_math: true
 ---
 
