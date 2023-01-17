@@ -2,7 +2,7 @@
 layout: default
 title: Digital Quantum Computing
 parent: Hardware Related Terms
-nav_order: 2
+nav_order: 3
 ---
 
 # Digital Quantum Computing

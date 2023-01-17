@@ -31,4 +31,4 @@ tbd. -->
  
 <!-- ## Sources
 1.  -->
-[Coupling Graph]:
+[Coupling Graph]: {{ site.baseurl }} {% link glossary/hardware-related/coupling-graph.md %}
