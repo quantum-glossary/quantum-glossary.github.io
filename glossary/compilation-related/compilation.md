@@ -39,9 +39,9 @@ There are two major approaches for compilation, namely:
 
 - Optimization
 - [Compilation Toolchain]
-- [Performance Indicators]
+- [Performance Indicator]
 
 <!-- ## Sources
 1.  -->
-[Compilation Toolchain]: {{ site.baseurl }}{% link glossary/compilation-related/compilation-toolchain.md %}
-[Performance Indicators]:
+[Compilation Toolchain]: {{ site.baseurl }} {% link glossary/compilation-related/compilation-toolchain.md %}
+[Performance Indicator]: {{ site.baseurl }} {% link glossary/other/performance-indicator.md %}
