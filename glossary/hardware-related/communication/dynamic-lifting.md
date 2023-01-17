@@ -15,7 +15,7 @@ Quantum
 {: .label .label-green }
 
 ## Full Definition
-Dynamic lifting was originally termed by quipper as the conversion from measurement results (bit) to classical value (bool) <sup>[1](#src_1)<sup>.
+Dynamic lifting was originally termed by quipper as the conversion from measurement results (bit) to classical value (bool) <sup>[1](#src_1)</sup>.
 During dynamic lifting, the quantum operations are (partially) suspended to execute classical operations, which govern the future circuit execution. 
 The classical execution has to complete during the coherence time.
 On most platforms, sending information over a bus would be intractable and therefore requires execution on the controller.

@@ -16,11 +16,11 @@ Quantum
 
 ## Full Definition
 
-A set of gates is said to be universal for quantum computation if any unitary operation may be approximated to arbitrary accuracy by a quantum circuit involving only those gates.<sup>[1](#src_1)<sup>
+A set of gates is said to be universal for quantum computation if any unitary operation may be approximated to arbitrary accuracy by a quantum circuit involving only those gates.<sup>[1](#src_1)</sup>
 
 ## Examples
 
-- The set \\(\{H, T, CNOT\}\\)<sup>[1](#src_1)<sup>
+- The set \\(\{H, T, CNOT\}\\)<sup>[1](#src_1)</sup>
 
 
 <!-- ## Synonyms

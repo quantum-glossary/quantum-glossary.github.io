@@ -21,7 +21,7 @@ Quantum
 The execution model defines the behavior between different components in the programming language, the interaction between the classical computer and the quantum computer (intermediate or non-intermediate) including scheduling.
 The execution model is enforced by the runtime environment. 
 The program execution can be defined by operational semantics.
-In quantum computing three models have been defined <sup>[1](#src_1)<sup>:
+In quantum computing three models have been defined <sup>[1](#src_1)</sup>:
 1. The QRAM Model
 2. The Restricted HQCC Model
 3. The Refined HQCC Model
