@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Communication
-nav_order: 5
+nav_order: 3
 has_children: true
 parent: Hardware Related Terms
 permalink: /glossary/hardware-related/communication
