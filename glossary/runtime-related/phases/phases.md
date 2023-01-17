@@ -7,7 +7,7 @@ parent: Runtime Related Terms
 permalink: /glossary/runtime-releated/phases
 ---
 
-# Runtime Related Terms
+# Phases
 
 During the process from creating the program source to running it on quantum hardware, the program itself passes through different phases.
 Each of these has a related *time* definition. 
