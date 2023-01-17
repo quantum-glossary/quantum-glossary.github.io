@@ -15,7 +15,7 @@ Quantum
 {: .label .label-green}
 
 ## Full Definition
-A graph \\(G={V,E} \\) where:
+A graph \\(G=\{V,E\} \\) where:
 - \\(V\\) represent qudits in the hardware.
 - \\(E\\) represent a physically possible coupling between two qudits.
 
