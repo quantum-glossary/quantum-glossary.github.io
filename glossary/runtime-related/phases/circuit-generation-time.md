@@ -31,3 +31,4 @@ tbd. -->
 <!--## Sources
 1.  -->
 
+[Parametrized Circuit]: {{ site.baseurl }} {% link glossary/other/parametrized-circuit.md %}
