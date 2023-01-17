@@ -2,7 +2,7 @@
 layout: default
 title: Quantum Enabled Node
 parent: Hardware Related Terms
-nav_order: 8
+nav_order: 9
 ---
 
 # Quantum Enabled Node
