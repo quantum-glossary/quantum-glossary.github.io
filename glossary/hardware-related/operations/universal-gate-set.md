@@ -32,6 +32,6 @@ A set of gates is said to be universal for quantum computation if any unitary op
 - [Native Gate Set]
 
 ## Sources
-1. Nielsen, Michael A., and Isaac Chuang. 2002 Quantum computation and quantum information.
+1. Nielsen, Michael A., and Isaac Chuang. 2002 Quantum computation and quantum information.<a href="#src_1"></a>
 
 [Native Gate Set]: {{ site.baseurl }}{% link glossary/hardware-related/operations/native-gate-set.md %}
