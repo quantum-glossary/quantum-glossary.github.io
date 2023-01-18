@@ -22,7 +22,7 @@ tbd. -->
 ## Examples
 
 - IBM uses the gate set \\( \\{U_1(\lambda), R_X(\frac{\pi}{2}), CNOT\\} \\)<sup>[1](#src_1)</sup>
-- IBM uses the gate set $ \{U_1(\lambda), R_X(\frac{\pi}{2}), CNOT\} $<sup>[1](#src_1)</sup>
+- IBM uses the gate set $$ \{U_1(\lambda), R_X(\frac{\pi}{2}), CNOT\} $$<sup>[1](#src_1)</sup>
 
 ## Synonyms
 

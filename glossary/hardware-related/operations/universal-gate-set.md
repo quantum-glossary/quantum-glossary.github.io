@@ -21,7 +21,7 @@ A set of gates is said to be universal for quantum computation if any unitary op
 
 ## Examples
 
-- The set \\( \{H, T, CNOT\} \\)<sup>[1](#src_1)</sup>
+- The set \\( \\{H, T, CNOT\\} \\)<sup>[1](#src_1)</sup>
 
 
 <!-- ## Synonyms
