@@ -4,6 +4,7 @@ title: Universal Gate Set
 parent: Operations
 grand_parent: Hardware Related Terms
 nav_order: 1
+use_math: true
 ---
 
 # Universal Gate Set

@@ -4,6 +4,7 @@ title: Native Gate Set
 parent: Operations
 grand_parent: Hardware Related Terms
 nav_order: 2
+use_math: true
 ---
 
 # Native Gate Set
