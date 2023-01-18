@@ -24,9 +24,9 @@ tbd. -->
 
 In quantum computing the most commonly used indicators are:
 -  **Fidelity**<a href="#fidelity"></a>: A measure of closeness of two quantum states. Used to compare noiseless simulation to noisy physical execution. **Gate Fidelity** is the fidelity induced by a single quantum gate.
-- Duration: Overall execution time of a quantum operation, usually related to the coherence time.
-- Gate-Depth: The maximum number of (multi-qudit) gates on a qudit. Most commonly as T-Gate-Depth, which only counts a specific set of gates.
-- Noise Resilience: A measure of how well a circuit performs on varying levels of noise. No concrete metric exists yet.
+- **Duration**: Overall execution time of a quantum operation, usually related to the coherence time.
+- **Gate-Depth**: The maximum number of (multi-qudit) gates on a qudit. Most commonly as T-Gate-Depth, which only counts a specific set of gates.
+- **Noise Resilience**: A measure of how well a circuit performs on varying levels of noise. No concrete metric exists yet.
 
 ## Synonyms
 
