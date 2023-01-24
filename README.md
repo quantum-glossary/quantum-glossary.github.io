@@ -12,6 +12,9 @@ To contribute [create a pull request](https://github.com/quantum-glossary/quantu
 If you want to add a new page, use the following template:
 
 ```md
+${frontmatter}
+<!-- Configured using yaml. Math can be enable with use_math:true -->
+
 # ${Title}
 {: .fs-9 }
 ${definition_short}
@@ -35,3 +38,7 @@ ${links_to_related_terms}
 ## Sources
 ${list_of_sources}
 ```
+
+## Building
+You can build the project locally.
+Follow the instructions from [GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) to create a local instance.
