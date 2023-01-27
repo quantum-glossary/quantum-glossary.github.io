@@ -28,9 +28,11 @@ Models of quantum computation are used to describe different approaches to make 
 
 -->
 
-<!-- ## Synonyms
+## Synonyms
 
--->
+- Quantum Computing Conceptual Method
+- Virtual Hardware Model
+- Quantum Computing Model
 
 ## Related Terms
 - [Execution Model]
