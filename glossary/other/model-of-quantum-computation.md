@@ -2,7 +2,7 @@
 layout: default
 title: Model of Quantum Computation
 parent: Other
-nav_order: 2
+nav_order: 1
 ---
 
 # Model of Quantum Computation
