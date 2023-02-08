@@ -24,6 +24,7 @@ The decoherence time $$t_Q$$ is the time in which a quantum system loses its *co
 In nuclear spin systems there are two major sources of decoherence<sup>[1](#src_1)</sup>:
 - \\(T_1\\) spin-lattice/longitudinal relaxation
 - \\(T_2\\) spin-spin/transverse relaxation
+
 Both are associated with a different point in time \\(t\\).
 At \\(T_1=t\\), the net magnetization of a physical system is at 63% of its maximum value.
 At \\(T_2=t\\), the transverse magnetization of a physical system is at 37% of its initial value.
