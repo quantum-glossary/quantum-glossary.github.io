@@ -16,6 +16,12 @@ The term definitions are not set in stone and are subject to change.
 
 ---
 
+{: .disclaimer}
+The definitions of this glossary are defined as used in the collaborative project at TUM.
+This means that the definitions should be considered in the context of HPC and Quantum System integration.
+We strive to keep improving the definitions and terms in the glossary to be correct in a broad spectrum.
+Please consider creating a pull request or opening an issue, if you find any ambiguity or wish to provide a definition.
+
 ## How to Contribute
 To contribute [create a pull request](https://github.com/quantum-glossary/quantum-glossary.github.io/compare).
 
