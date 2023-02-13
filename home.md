@@ -16,6 +16,12 @@ The term definitions are not set in stone and are subject to change.
 
 ---
 
+{: .disclaimer}
+The definitions in this glossary are largely based on personal experience. 
+The goal is to provide common and unambiguous terms for concepts and **NOT** to provide exact definitions of these terms.
+We strive to keep improving the definitions and terms in the glossary to be correct in a broad spectrum.
+Please consider creating a pull request or opening an issue, if you find any ambiguity or wish to provide a definition.
+
 ## How to Contribute
 To contribute [create a pull request](https://github.com/quantum-glossary/quantum-glossary.github.io/compare).
 
